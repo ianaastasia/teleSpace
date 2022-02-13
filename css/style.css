@@ -1,0 +1,200 @@
+.header{
+    display: flex;
+    justify-content: center;
+}
+.header img{
+    margin-right: 50px;
+}
+.navbar{
+    text-align: center;
+    margin: 20px;
+}
+.navbar a{
+    color: black;
+    font-weight: 700;
+    padding: 10px;
+    margin: 0 25px;
+    text-decoration: none;
+}
+.navbar a:hover{
+    background-color: black;
+    color: white;
+    border-radius: 10%;
+}
+.logo{
+    width: 200px;
+    height: 200px;
+}
+.section-one{
+    background-image: url("../img/background.jpeg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: white;
+    text-indent: 50px;
+    padding: 25px;
+}
+.section-one h1, h2{
+    text-align: center;
+}
+.section-one p{
+    text-align: justify;
+}
+.telescope-row{
+    display: flex;
+    justify-content: space-evenly;
+}
+.telescope{
+    margin: 60px;
+    width: 900px;
+}
+.telescope-row img{
+    width: 200px;
+    height: 300px;
+    margin-bottom: 15px;
+}
+.name{
+    font-size: 20px;
+    font-weight: 700;
+}
+.info-p{
+    display: none;
+}
+.info-p-2{
+    display: none;
+}
+.info-p-3{
+    display: none;
+}
+.info-p-4{
+    display: none;
+}
+.info-p-5{
+    display: none;
+}
+.info-p-6{
+    display: none;
+}
+.info-p-visible{
+   display: block;
+   background-image: url("../img/7b4b6d4daf3fb51cb024e0fe7c8d1987.jpeg");
+   color: white;
+   text-align: center;
+   border-radius: 10px;
+   width: 270px;
+   padding: 20px;
+} 
+.btnInfo{
+    background: linear-gradient(90deg, rgba(223,212,217,1) 0%, rgba(148,187,233,1) 100%);
+    border-radius: 15px;
+    border: 0;
+    margin: 10px;
+    width: 100px;
+}
+.btnInfo-2{
+    background: linear-gradient(90deg, rgba(223,212,217,1) 0%, rgba(148,187,233,1) 100%);
+    border-radius: 15px;
+    border: 0;
+    margin: 10px;
+    width: 100px;
+}
+.btnInfo-3{
+    background: linear-gradient(90deg, rgba(223,212,217,1) 0%, rgba(148,187,233,1) 100%);
+    border-radius: 15px;
+    border: 0;
+    margin: 10px;
+    width: 100px;
+}
+.btnInfo-4{
+    background: linear-gradient(90deg, rgba(223,212,217,1) 0%, rgba(148,187,233,1) 100%);
+    border-radius: 15px;
+    border: 0;
+    margin: 10px;
+    width: 100px;
+}
+.btnInfo-5{
+    background: linear-gradient(90deg, rgba(223,212,217,1) 0%, rgba(148,187,233,1) 100%);
+    border-radius: 15px;
+    border: 0;
+    margin: 10px;
+    width: 100px;
+}
+.btnInfo-6{
+    background: linear-gradient(90deg, rgba(223,212,217,1) 0%, rgba(148,187,233,1) 100%);
+    border-radius: 15px;
+    border: 0;
+    margin: 10px;
+    width: 100px;
+}
+.love{
+    width: 30px;
+    height: 30px;
+    margin-top: 10px;
+    background-image: url("../img/heart-5-128.png");
+    background-repeat: no-repeat;
+    background-size: 30px 30px;
+}
+.love-2{
+    width: 30px;
+    height: 30px;
+    margin-top: 10px;
+    background-image: url("../img/heart-5-128.png");
+    background-repeat: no-repeat;
+    background-size: 30px 30px;
+}
+.love-3{
+    width: 30px;
+    height: 30px;
+    margin-top: 10px;
+    background-image: url("../img/heart-5-128.png");
+    background-repeat: no-repeat;
+    background-size: 30px 30px;
+}
+.love-4{
+    width: 30px;
+    height: 30px;
+    margin-top: 10px;
+    background-image: url("../img/heart-5-128.png");
+    background-repeat: no-repeat;
+    background-size: 30px 30px;
+}
+.love-5{
+    width: 30px;
+    height: 30px;
+    margin-top: 10px;
+    background-image: url("../img/heart-5-128.png");
+    background-repeat: no-repeat;
+    background-size: 30px 30px;
+}
+.love-6{
+    width: 30px;
+    height: 30px;
+    margin-top: 10px;
+    background-image: url("../img/heart-5-128.png");
+    background-repeat: no-repeat;
+    background-size: 30px 30px;
+}
+.row{
+    display: flex;
+}
+.fav-change{
+    width: 30px;
+    height: 30px;
+    margin-top: 10px;
+    background-image: url("../img/heart-5-2.png");
+    background-repeat: no-repeat;
+    background-size: 30px 30px;
+}
+.collection{
+    width: 1280px;
+    height: 918px;
+    background-image: url("../img/1.jpg");
+    margin: 20px;
+}
+.section-thee h1{
+    text-align: center;
+}
+footer{
+    text-align: center;
+    color: white;
+    background-color: black;
+}
